@@ -71,3 +71,15 @@ Getting Started
 
 The current version is low-fidelity prototype. Additional features and security improvements will be developed as the project progresses.
 
+
+
+\## License
+
+...................................................................................................................
+
+This project is licensed under the MIT License.
+
+See the \[LICENSE](LICENSE) file for details.
+
+...................................................................................................................
+
