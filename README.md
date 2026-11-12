@@ -16,3 +16,58 @@ I selected this project because I enjoy soccer and wanted to develop a useful ap
 
 The project will start with a simple website prototype and gradually develop into a more complete application. My development goals include creating user-friendly interface, implementing interactive features, and considering security requirements such as authentication, authorization, input validation, and protection against common web vulnerabilities. 
 
+\--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+INSTALLATION
+
+
+
+To use this project efficiently, you need:
+
+* windows 10 or Windows 11.
+* A modern web browser such as Google Chrome, Microsoft Edge, or Firefox
+* A text editor such as Visual Studio Code, Sublime Text, or Notepad
+* Git if you want to clone the repository.
+
+&#x20; 
+
+''''
+
+Installation steps
+
+
+
+1. Clone the repository from GitHub:
+
+
+
+git clone https://github.com/seydoubarro2011-bot/Wakanda\_Warriors\_Soccer\_Website.git
+
+
+
+2\. Open the project folder:
+
+cd Wakanda\_Warriors\_Soccer\_Website
+
+
+
+3\. Open the <index.html> file in your web browser.
+
+No additional packages or dependencies are required for the initial HTML, CSS and JavaScript prototype.
+
+
+
+Getting Started
+
+
+
+* Open the project folder
+* Open index.html using your web browser
+* use the navigation menu to explore the Home, Players, schedule, and Results sections
+* Visit the players section to view player information
+* Use the player search feature to find a player by name.
+
+
+
+The current version is low-fidelity prototype. Additional features and security improvements will be developed as the project progresses.
+
