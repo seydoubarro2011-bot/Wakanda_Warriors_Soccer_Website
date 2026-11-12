@@ -136,3 +136,128 @@ Acceptance Criteria:
 * Authorized administrators can enter and update match scores.
 * Unauthorized visitors cannot modify schedules or match results.
 
+
+
+\# 2. Mis-User Stories and Security Mitigations
+
+
+
+\### Mis-User Story 1: Unauthorized Modification of Player Information
+
+
+
+\*\*Mis-User Story:\*\*
+
+
+
+As a malicious visitor, I want to change player information without permission so I can display false or misleading information about team members.
+
+
+
+\*\*Mitigation Criteria:\*\*
+
+
+
+* Only authenticated and authorized administrators can add or modify player information.
+* Regular visitors have read-only access to player profiles.
+* The application verifies administrator permissions before accepting changes.
+* Unauthorized modification requests are rejected.
+
+
+
+\### Mis-User Story 2: Cross-Site Scripting (XSS) Attacks
+
+
+
+\*\*Mis-User Story:\*\*
+
+
+
+As a malicious user, I want to submit harmful JavaScript code through website input fields so I can execute unauthorized scripts in other visitors' browsers.
+
+
+
+Mitigation Criteria:
+
+
+
+* User input is validated before being processed.
+* User-generated content is safely encoded before being displayed.
+* The application does not execute untrusted input as JavaScript or HTML.
+* Input fields are tested for common cross-site scripting vulnerabilities.
+
+
+
+\### Mis-User Story 3: Unauthorized Access to Administrator Functions
+
+
+
+\*\*Mis-User Story:\*\*
+
+
+
+As a malicious visitor, I want to access administrator functions without permission so I can control or change team information.
+
+
+
+\*\*Mitigation Criteria:\*\*
+
+
+
+* Administrator accounts require secure authentication.
+* Administrator functions are protected by role-based authorization.
+* Passwords are stored using secure password hashing.
+* The application rejects requests from users without the required permissions.
+
+
+
+\### Mis-User Story 4: Exposure of Private Player Information
+
+
+
+\*\*Mis-User Story:\*\*
+
+
+
+As a malicious visitor, I want to access private player information so I can collect and misuse personal information without permission.
+
+
+
+\*\*Mitigation Criteria:\*\*
+
+
+
+\- The website displays only player information necessary for public team profiles.
+
+\- Private contact information and sensitive personal details are not displayed publicly.
+
+\- Access to sensitive information is restricted to authorized administrators.
+
+\- The application avoids collecting unnecessary personal information.
+
+
+
+\### Mis-User Story 5: Unauthorized Modification of Game Schedules and Results
+
+
+
+\*\*Mis-User Story:\*\*
+
+
+
+As a malicious visitor, I want to change game schedules or match results without permission so I can mislead supporters about team activities and performance.
+
+
+
+\*\*Mitigation Criteria:\*\*
+
+
+
+\- Only authenticated and authorized administrators can modify game schedules and results.
+
+\- The application validates schedule and match-result information before saving changes.
+
+\- Unauthorized modification requests are rejected.
+
+\- The application maintains records of administrative changes for accountability.
+
