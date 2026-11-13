@@ -267,3 +267,17 @@ As a malicious visitor, I want to change game schedules or match results without
 
 The following diagram represents the planned user interface for the WAKANDA WARRIORS Soccer Team Website. It includes the main navigation, welcome section, player profiles and search, upcoming games, match results, and administrator functions.
 
+\-------------------------------------------------------------------------------------------------------------------
+
+4\. C4 System Context Diagram
+
+
+
+The C4 System Context Diagram provides a high-level view of the WAKANDA WARRIORS Soccer Team Website. It identifies the website visitors and team administrators as the primary users of the system and illustrates how they interact with the website.
+
+
+
+* Website Visitor: Views team information, player profiles, upcoming games, and match results.
+* Team Administrator: Manages player information, game schedules, and match results.
+* Software System: The WAKANDA WARRIORS Soccer Team Website.
+
