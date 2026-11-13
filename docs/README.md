@@ -281,3 +281,23 @@ The C4 System Context Diagram provides a high-level view of the WAKANDA WARRIORS
 * Team Administrator: Manages player information, game schedules, and match results.
 * Software System: The WAKANDA WARRIORS Soccer Team Website.
 
+...................................................................................................................
+
+\## 5. C4 Container Diagram
+
+
+
+The C4 Container Diagram shows the main technical components of the WAKANDA WARRIORS Soccer Team Website and how they communicate.
+
+
+
+* Website Visitor: Views team information, player profiles, schedules, and match results.
+* Team Administrator: Uses the administrator interface to manage team information.
+* Web Frontend: The implemented prototype built with HTML, CSS, and JavaScript.
+* Application / API: A planned backend service for processing requests and managing website data.
+* Database: A planned data store for player information, game schedules, and match results.
+
+
+
+The backend and database are planned future components and have not yet been implemented.
+
