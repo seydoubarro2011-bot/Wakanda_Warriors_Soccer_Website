@@ -1,0 +1,55 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="kMgLxJrNeHXMCszwuJsn">
+    <mxGraphModel dx="1768" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ks34dSjxExvpZQycjqN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#173D2A,#FFFFFF);fontColor=#FFFFFF;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;WAKANDA WARRIORS&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;SOCCER TEAM&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="900" x="-40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#000066;opacity=20;opacityGroup=1;roundedPerimeter=1;" value="&lt;b&gt;HOME&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;PLAYERS&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SCHEDULE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;RESULTS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="900" x="-40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;opacity=60;opacityGroup=1;roundedPerimeter=1;fontColor=#006600;direction=south;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;WELCOME&amp;nbsp; TO WAKANDA WARRIORS !&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A team united by passion, teamwork, and determination.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Discover our players, upcoming games, and match results&lt;/div&gt;" vertex="1">
+          <mxGeometry height="700" width="930" x="-70" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#173D2A;" value="OUR PLAYERS" vertex="1">
+          <mxGeometry height="30" width="110" x="-40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Search player by name...&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="350" x="-40" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;flipV=1;flipH=0;legacyAnchorPoints=0;textDirection=vertical-lr;verticalAlign=middle;" value="PLAYER 1&lt;div&gt;#10&lt;/div&gt;&lt;div&gt;Forward&lt;/div&gt;&lt;hr&gt;PLAYER 2&lt;div&gt;#7&lt;/div&gt;&lt;div&gt;Midfielder&lt;/div&gt;&lt;hr&gt;PLAYER 3&lt;div&gt;#1&lt;/div&gt;&lt;div&gt;Goalkeeper&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="-40" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosizeText=1;fontSize=12;fontColor=#006633;" value="&lt;b&gt;UPCOMING GAMES&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="-40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#173D2A;roundedPerimeter=1;" value="DATE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; OPPONENT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;LOCATION&lt;div&gt;&lt;br&gt;&lt;div&gt;TBD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Sample Team A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Crosskey Village Park&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TBD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Sample Team B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Crosskey Village Park&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="440" x="-40" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-14" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;opacity=50;opacityGroup=1;roundedPerimeter=1;fontColor=light-dark(#006633,var(--ge-light-color, #ffffff));" value="OPPONENT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SCORE&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RESULT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Sample Team A&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TBD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Pending&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sample Team B&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TBD&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Pending&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="440" x="-40" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#006633;" value="&lt;b&gt;UPCOMING GAMES&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="-40" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#173D2A;" value="&lt;b&gt;RECENT MATCH RESULTS&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="175" x="-40" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#173D2A;" value="&lt;b&gt;ADMINISTRATION&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="-40" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=#006600;" value="ADMINISTRATION ACCESS ONLY&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Add Player]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [Update Player]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Add]&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;[Update Results.]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="440" x="-40" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=19;" value="(C) WAKANDA WARRIORS | Soccer Team Website&lt;div&gt;Teamwork&amp;nbsp; &lt;font style=&quot;font-size: 24px;&quot;&gt;.&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Repect&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;&quot;&gt; &lt;span style=&quot;font-size: 24px;&quot;&gt;. &lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Determination&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="290" x="-40" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="3ks34dSjxExvpZQycjqN-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;WAKANDA WARRIORS WEBSITE MOCKUP&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="260" y="970" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

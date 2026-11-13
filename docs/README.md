@@ -261,3 +261,9 @@ As a malicious visitor, I want to change game schedules or match results without
 
 \- The application maintains records of administrative changes for accountability.
 
+...................................................................................................................
+
+3\. Website Mockup
+
+The following diagram represents the planned user interface for the WAKANDA WARRIORS Soccer Team Website. It includes the main navigation, welcome section, player profiles and search, upcoming games, match results, and administrator functions.
+
