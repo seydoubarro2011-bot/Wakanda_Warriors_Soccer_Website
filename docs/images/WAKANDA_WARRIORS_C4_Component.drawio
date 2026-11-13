@@ -1,0 +1,119 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="VAiUV-R521KU94jLDtV_">
+    <mxGraphModel dx="2218" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8OTmv73HogOhC5yrkP_x-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;roundedPerimeter=1;fillStyle=dots;" value="" vertex="1">
+          <mxGeometry height="530" width="340" x="520" y="120" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Web Frontend" c4Type="ContainerScopeBoundary" c4Application="Implemented website prototype built with HTML, CSS, and JavaScript" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="8OTmv73HogOhC5yrkP_x-1">
+          <mxCell parent="1" style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="910" width="1360" x="-20" y="-80" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Navigation Component" c4Type="Component" c4Technology="HTML, CSS, JavaScript" c4Description="Provides navigation links to the Home, Players, Schedule, and Results sections of the website." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="8OTmv73HogOhC5yrkP_x-2">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="30" y="350" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Team Information Component" c4Type="Component" c4Technology="HTML, CSS, JavaScript" c4Description="Displays the WAKANDA WARRIORS team introduction and general team information." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="8OTmv73HogOhC5yrkP_x-3">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="550" y="-10" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Player Profiles &amp; Search Component" c4Type="Component" c4Technology="HTML, CSS, JavaScript" c4Description="Displays player profiles and allows visitors to search for players by name." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="8OTmv73HogOhC5yrkP_x-4">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="550" y="200" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Game Schedule Component" c4Type="Component" c4Technology="HTML, CSS, JavaScript" c4Description="Displays upcoming soccer games, including dates, opponents, and locations." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="8OTmv73HogOhC5yrkP_x-5">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="550" y="350" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Match Results Component" c4Type="Component" c4Technology="HTML, CSS, JavaScript" c4Description="Displays previous soccer matches, opponents, final scores, and match outcomes." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="8OTmv73HogOhC5yrkP_x-6">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="550" y="500" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Administrator Interface" c4Type="Component" c4Technology="HTML, CSS, JavaScript" c4Description="Planned interface for authorized administrators to manage player information, game schedules, and match results." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="8OTmv73HogOhC5yrkP_x-7">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1">
+            <mxGeometry height="120" width="240" x="1030" y="350" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-8" edge="1" parent="1" source="8OTmv73HogOhC5yrkP_x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.178;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="8OTmv73HogOhC5yrkP_x-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-10" connectable="0" parent="8OTmv73HogOhC5yrkP_x-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;code&gt;Navigates to team information&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3939" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-11" edge="1" parent="1" source="8OTmv73HogOhC5yrkP_x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="8OTmv73HogOhC5yrkP_x-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-12" connectable="0" parent="8OTmv73HogOhC5yrkP_x-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;code&gt;Navigates to player profiles&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2261" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-13" edge="1" parent="1" source="8OTmv73HogOhC5yrkP_x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="8OTmv73HogOhC5yrkP_x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-14" connectable="0" parent="8OTmv73HogOhC5yrkP_x-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;code&gt;Navigates to game schedule&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0333" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-15" edge="1" parent="1" source="8OTmv73HogOhC5yrkP_x-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="8OTmv73HogOhC5yrkP_x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-17" connectable="0" parent="8OTmv73HogOhC5yrkP_x-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;code&gt;Navigates to match results&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1633" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;u&gt;C4 MODEL- COMPONENT DIAGRAM&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;WAKANDA WARRIORS SOCCER TEAM WEBSITE&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="320" x="260" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Legend&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Container: The web frontend&lt;div&gt;&lt;div&gt;Component: An individual part of the website.&lt;/div&gt;&lt;div&gt;Arrow: Navigation or interaction between components.&lt;/div&gt;&lt;div&gt;Implemented: Built using HTML, CSS, and JavaScript.&lt;/div&gt;&lt;div&gt;Panned: A feature not yet implemented.&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="10" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-20" edge="1" parent="1" source="8OTmv73HogOhC5yrkP_x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.156;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="8OTmv73HogOhC5yrkP_x-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-21" connectable="0" parent="8OTmv73HogOhC5yrkP_x-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;code&gt;Manages player information (planned)&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2722" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-22" edge="1" parent="1" source="8OTmv73HogOhC5yrkP_x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="8OTmv73HogOhC5yrkP_x-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-23" connectable="0" parent="8OTmv73HogOhC5yrkP_x-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;code&gt;Manages game schedules (planned)&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0111" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-24" edge="1" parent="1" source="8OTmv73HogOhC5yrkP_x-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="8OTmv73HogOhC5yrkP_x-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-25" connectable="0" parent="8OTmv73HogOhC5yrkP_x-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;code&gt;Manages match results (planned)&lt;/code&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2635" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SECURITY DOMAINE" vertex="1">
+          <mxGeometry height="60" width="260" x="560" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8OTmv73HogOhC5yrkP_x-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;u&gt;WAKANDA WARRIORS C4 COMPONENT&lt;/u&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="440" x="450" y="880" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

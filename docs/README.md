@@ -301,3 +301,23 @@ The C4 Container Diagram shows the main technical components of the WAKANDA WARR
 
 The backend and database are planned future components and have not yet been implemented.
 
+\-------------------------------------------------------------------------------------------------------------------
+
+6\. C4 Component Diagram
+
+
+
+The C4 Component Diagram provides a detailed view of the internal components of the WAKANDA WARRIORS Soccer Team Website frontend. It shows how the individual website components are organized and how they interact.
+
+
+
+* Web Frontend: The main website container built with HTML, CSS, and JavaScript.
+* Navigation Component: Provides links to the Home, Players, Schedule, and Results sections.
+* Team Information Component: Displays the team's introduction and general information.
+* Player Profiles \& Search Component: Displays player profiles and allows visitors to search for players.
+* Game Schedule Component: Displays upcoming soccer games, dates, opponents, and locations.
+* Match Results Component: Displays previous matches, final scores, and outcomes.
+* Administrator Interface: A planned interface for authorized administrators to manage player information, game schedules, and match results.
+
+The Administrator Interface and its management functions are planned for future development and have not yet been implemented.
+
