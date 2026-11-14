@@ -107,3 +107,89 @@ section h2 {
     border: 1px lightgrey; /* Adds a light gray border */
     border-radius: 5px;        /* Rounds the corners */
 }
+
+/* 8. Player cards */
+
+#playerList {
+    display: grid; /* Organizes players into rows and columns */
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px; /* Adds space between player cards */
+}
+
+/* Styling for each player */
+
+.player-card {
+    background-color: honeydew; /* Light green background */
+    padding: 18px; /* Adds space inside the card */
+    border-left: 4px solid forestgreen; /* Adds a green line */
+    border-radius: 5px; /* Rounds the card corners */
+}
+
+/* Player names */
+
+.player-card h3 {
+    color: darkgreen;
+    margin-bottom: 8px;
+}
+
+/* 9. Upcoming game cards */
+
+.game-card {
+    background-color: honeydew;
+    padding: 18px;
+    margin: 15px 0;
+    border-left: 4px solid gold;
+    border-radius: 5px;
+}
+
+/* 10. Match result cards */
+
+.result-card {
+    background-color: honeydew;
+    padding: 18px;
+    margin: 15px 0;
+    border-left: 4px solid forestgreen;
+    border-radius: 5px;
+}
+
+/* 11. Administrator section */
+
+#admin {
+    background-color: beige;
+}
+
+/* 12. Website footer */
+
+footer {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 25px;
+}
+
+/* 13. Make the website work on smaller screens */
+
+@media screen and (max-width: 600px) {
+
+    /* Makes the website title smaller on phones */
+    header h1 {
+        font-size: 25px;
+    }
+
+    /* Displays navigation links vertically */
+    nav {
+        flex-direction: column;
+    }
+
+    /* Centers the navigation links */
+    nav a {
+        text-align: center;
+    }
+
+    /* Reduces section spacing on phones */
+    section {
+        padding: 18px;
+    }
+}
+
