@@ -1,0 +1,109 @@
+
+/*
+   Wakanda Warriors Soccer Team Website
+   CSS File: style.css
+   Part 1: Basic website styling
+*/
+
+/* 1. Basic styling for the entire website */
+
+* {
+    margin: 0;              /* Removes default outside spacing */
+    padding: 0;             /* Removes default inside spacing */
+    box-sizing: border-box; /* Makes element sizing easier to manage */
+}
+
+/* 2. Body styling */
+
+body {
+    font-family: Arial, sans-serif; /* Sets the font */
+    background-color: whitesmoke;      /* Light gray page background */
+    color: darkslategray;                 /* Dark gray text */
+    line-height: 1.6;               /* Adds space between text lines */
+}
+
+/* 3. Website header */
+
+header {
+    background-color: darkgreen; /* Dark green background */
+    color: white;              /* White text */
+    text-align: center;        /* Centers the header content */
+    padding: 25px;              /* Adds space inside the header */
+}
+
+/* Website title */
+
+header h1 {
+    font-size: 32px;     /* Makes the title larger */
+    margin-bottom: 10px; /* Adds space below the title */
+}
+
+/* Website slogan */
+
+header p {
+    font-size: 16px; /* Sets the slogan text size */
+}
+
+/* 4. Navigation menu */
+
+nav {
+    margin-top: 20px;        /* Adds space above navigation */
+    display: flex;           /* Places links next to each other */
+    justify-content: center; /* Centers navigation links */
+    flex-wrap: wrap;         /* Allows links to move to another line */
+    gap: 10px;               /* Adds space between links */
+}
+
+/* Navigation links */
+
+nav a {
+    color: white;              /* Makes link text white */
+    text-decoration: none;     /* Removes link underline */
+    background-color: forestgreen; /* Green background */
+    padding: 10px 15px;        /* Adds space inside links */
+    border-radius: 5px;        /* Rounds the link corners */
+}
+
+/* Navigation hover effect */
+
+nav a:hover {
+    background-color: gold; /* Changes background to gold */
+    color: #darkgray;            /* Changes text to dark gray */
+}
+
+/* 5. Main website content */
+
+main {
+    max-width: 1000px; /* Limits the content width */
+    margin: 25px auto; /* Centers the content */
+    padding: 0 15px;   /* Adds space on both sides */
+}
+
+/* 6. Website sections */
+
+section {
+    background-color: white; /* Gives sections a white background */
+    padding: 25px;            /* Adds inside spacing */
+    margin-bottom: 25px;      /* Adds space between sections */
+    border-radius: 6px;       /* Rounds section corners */
+}
+
+/* Section headings */
+
+section h2 {
+    color: darkgreen; /* Dark green heading */
+    margin-bottom: 15px; /* Adds space below heading */
+    border-bottom: 2px solid gold; /* Gold underline */
+    padding-bottom: 8px; /* Adds space above underline */
+}
+
+/* 7. Player search box */
+
+#playerSearch {
+    width: 100%;              /* Uses the full available width */
+    padding: 12px;             /* Adds space inside the box */
+    margin: 15px 0;            /* Adds outside spacing */
+    font-size: 16px;           /* Sets the text size */
+    border: 1px lightgrey; /* Adds a light gray border */
+    border-radius: 5px;        /* Rounds the corners */
+}
